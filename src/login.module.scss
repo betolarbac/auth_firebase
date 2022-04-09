@@ -1,0 +1,21 @@
+.login {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    button {
+        font-size: 1.5rem;
+        width: 290px;
+        height: 60px;
+        border-radius: 20px;
+        cursor: pointer;
+      
+    }
+
+    
+}
+
+body {
+    margin: 0;
+}
